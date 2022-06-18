@@ -1,0 +1,21 @@
+.Header {
+    height: 55px;
+    width: 100%;
+    background-color: #F55A5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 55px;
+}
+
+.Header--content {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.Header--content > h4 {
+    color: #fff;
+    font-weight: 400;
+}
